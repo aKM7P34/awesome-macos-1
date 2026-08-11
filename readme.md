@@ -770,6 +770,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Freedom](https://freedom.to/) - Freedom is the app and website blocker for Mac. ![Free][free]
 - [MindMac](https://mindmac.app/) - Feature-rich & privacy-first native ChatGPT app to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place.
 - [Pomotroid](https://github.com/Splode/pomotroid) - Simple and visually-pleasing Pomodoro timer. 🍅 ![Open Source][oss]
+- [Screen Break](https://screen-break-mac.netlify.app/) - Gentle macOS menu bar break reminder with guided full-screen rests. ![Free][free]
 - [Shortery](https://lgerckens.de/shortery/) - Shortcut Automation for your Mac. ![Free][free]
 - [Time Sink](https://manytricks.com/timesink/) - Track how you're spend your time. ![Dollar][mon]
 - [TomatoBar](https://github.com/ivoronin/TomatoBar) - World's neatest Pomodoro timer for macOS menu bar. 🍅 ![Open Source][oss]
